@@ -1,0 +1,26 @@
+h1 {
+  color: purple;
+  font-weight: bold;
+}
+
+h3 {
+	color: purple;
+	font-weight: bold;
+}
+
+<html>
+<head>
+<style>
+h3 {text-align: left;}
+p {text-align: left;}
+div {text-align: left;}
+</style>
+</head>
+<body>
+
+<h3>This is a heading</h3>
+<p>This is a paragraph.</p>
+<div>This is a div.</div>
+
+</body>
+</html>
